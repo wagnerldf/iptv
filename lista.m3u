@@ -1,0 +1,167 @@
+#EXTM3U
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.imgur.com/TL9HqlP.png",GLOBO RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.imgur.com/TL9HqlP.png",GLOBO RJ
+https://cdn.esporteone.com/GLOBORJ/video.m3u8?md5=j-aW0ojkDjVbKIjjynfdAQ&expires=1618859169
+
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.imgur.com/TL9HqlP.png",GLOBO SP
+https://cdn.esporteone.com/GLOBOSP/video.m3u8?md5=e3IqvNBapbDh7u7E48gGDA&expires=1618859223
+
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="",TC-Pipoca
+https://cdn.esporteone.com/TELECINEPIPOCASD/video.m3u8?md5=sj8_KPIzYJp_Y19g9-AfSw&expires=1618860121
+
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="",TC-Premium
+https://cdn.esporteone.com/TELECINEPREMIUMSD/video.m3u8?md5=JxUHRxJzicBvhFhlp1EJbw&expires=1618860294
+
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="",TC-Action
+https://cdn.esporteone.com/TELECINEACTIONSD/video.m3u8?md5=ewz8IzdOdGoH5Bi_L10a7Q&expires=1618860364
+
+
+
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://thejewishnews.com/wp-content/uploads/2018/06/ESPN_logos.png",ESPN 
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Assistir-ESPN-2-ao-vivo-online-24-horas-249x140.png",ESPN2
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://i.imgur.com/rTXcueh.png",ESPN BRASIL
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="",FOX SPORTS
+https://content-asae1-up-2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1618851159&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=75fcd8a34f703f71cc58e2413c4c37deb043acbc5a16682bed1eefcbb2bcc50f&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=fe086800221aa29f1b624872889649cd1d7c470a80fef3c12f8c89d0ed6d6cfe&pbs=570365b3830c4317bfeb8846eb174744
+
+
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="",FOX SPORTS2
+https://content-asae1-up-2.uplynk.com/channel/079d58338d294099914fc3e879c8e3ac/e.m3u8?exp=1618851256&ct=c&cid=079d58338d294099914fc3e879c8e3ac&expand=drmOff&iph=75fcd8a34f703f71cc58e2413c4c37deb043acbc5a16682bed1eefcbb2bcc50f&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=32528c0ec1e922e3584713ee80241c9b4abcab3cc82cec5aa6aa24e659815c4d&pbs=bdf27772cb99429784f91b7fcc9f9a1d
+
+
+
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png",ALL SPORTS
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://thejewishnews.com/wp-content/uploads/2018/06/ESPN_logos.png",ESPN OPC-02
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_360_av-p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://i.imgur.com/rTXcueh.png",ESPN BRASIL OPC-02
+https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_360_av-p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://i.imgur.com/rTXcueh.png",ESPN BRASIL HD OPC-02
+https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://i.imgur.com/rTXcueh.png",ESPN BRASIL SD OPC-02
+https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_240_av-p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/OeC9hcZ.png",ESPN EXTRA SD OPC-02
+https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://thejewishnews.com/wp-content/uploads/2018/06/ESPN_logos.png",ESPN HD OPC-02
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://thejewishnews.com/wp-content/uploads/2018/06/ESPN_logos.png",ESPN SD OPC-02
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_240_av-p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Assistir-ESPN-2-ao-vivo-online-24-horas-249x140.png",ESPN2 SD OPC-02
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png",REDBULL TV OPC-02
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+
+
+#EXTINF:-1 group-title="DESENHOS" tvg-logo="",Gloob
+https://cdn.esporteone.com/GLOOBSD/video.m3u8?md5=Bmg9IveDaGdLenlevcHTjA&expires=1618522327
+
+
+#EXTINF:-1 group-title="DESENHOS" tvg-logo="",Nickelodeon
+https://cdn.esporteone.com/NICKSD/video.m3u8?md5=Pbl0QG9kgDUHAgWPDoTCEg&expires=1618522420
+
+
+#EXTINF:-1 group-title="DESENHOS" tvg-logo="",Cartoon
+https://cdn.esporteone.com/CARTOONSD/video.m3u8?md5=Y9mBC-tSVo2hWp70OwUT-Q&expires=1618522511
+
+
+#EXTINF:-1 group-title="DESENHOS" tvg-logo="",Nick Jr
+https://cdn.esporteone.com/NICKJRSD/video.m3u8?md5=b7lvAzpVBIQGP-95B5XqMw&expires=1618860528
+
+
+#EXTINF:-1 group-title="DESENHOS" tvg-logo="",Discovery Kids
+https://cdn.esporteone.com/DISCOVERYKIDSSD/video.m3u8?md5=sgFMVIER9L5XK4QlzR1_3w&expires=1618860558
+
+
+#EXTINF:-1 group-title="DESENHOS" tvg-logo="",Boomerang
+https://cdn.esporteone.com/BOOMERANGSD/video.m3u8?md5=l7ZmynCUQtxxMzFXO5xB0Q&expires=1618860620
+
+
+#EXTINF:-1 group-title="DESENHOS" tvg-logo="",Disney channel
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1 group-title="DESENHOS" tvg-logo="http://i.imgur.com/ETxffjm.png",Disney Channel OPC-02
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-b.m3u8
+
+#EXTINF:-1 group-title="DESENHOS" tvg-logo="http://i.imgur.com/ETxffjm.png",Disney Channel HD OPC-02
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 group-title="DESENHOS" tvg-logo="http://i.imgur.com/ETxffjm.png",Disney Channel SD OPC-02
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_240_av-p.m3u8
+
+#EXTINF:-1 group-title="DESENHOS" tvg-logo="http://i.imgur.com/H9AY5z4.png",Disney Junior OPC-02
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_360_av-b.m3u8
+
+#EXTINF:-1 group-title="DESENHOS" tvg-logo="http://i.imgur.com/H9AY5z4.png",Disney Junior HD OPC-02
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 group-title="DESENHOS" tvg-logo="http://i.imgur.com/H9AY5z4.png",Disney Junior SD OPC-02
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_240_av-b.m3u8
+
+#EXTINF:-1 group-title="DESENHOS" tvg-logo="http://i.imgur.com/zNNIALN.png",Disney XD OPC-02
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_360_av-b.m3u8
+
+#EXTINF:-1 group-title="DESENHOS" tvg-logo="http://i.imgur.com/zNNIALN.png",Disney XD SD OPC-02
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_240_av-b.m3u8
+
+#EXTINF:-1 group-title="DESENHOS" tvg-logo="http://i.imgur.com/sFwOnxG.png",Play Kids 
+http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_360_av-p.m3u8
+
+#EXTINF:-1 group-title="DESENHOS" tvg-logo="https://i.imgur.com/x33MwPN.png",RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Acompanhe a Casa
+http://rec2.distv.net:80/daniele/12345/254
+
+#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Acompanhe a Casa 2
+http://rec2.distv.net:80/daniele/12345/255
+
+#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Acompanhe a Casa Extra
+http://rec2.distv.net:80/daniele/12345/256
+
+#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Confessionario
+http://rec2.distv.net:80/daniele/12345/257
+
+#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Piscina
+http://rec2.distv.net:80/daniele/12345/260
+
+#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Quarto Colorido
+http://rec2.distv.net:80/daniele/12345/261
+
+#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Sala de Estar
+http://rec2.distv.net:80/daniele/12345/262
+
+#EXTINF:-1 group-title="Variedades" tvg-logo="",History-channel
+https://cdn.esporteone.com/HISTORYSD/video.m3u8?md5=6jbTJuwkp6hEwi0qTuofqg&expires=1618522699
+
+#EXTINF:-1 group-title="Variedades" tvg-logo="",History-Channel opc02
+https://cdn.esporteone.com/HISTORYSD/video.m3u8?md5=gx4WcfTdfWvehPj1KyOz0Q&expires=1618541126
